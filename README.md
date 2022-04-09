@@ -1,3 +1,3 @@
 # Top10moivesite
 
-usinga flask and api to show my top10 
+flask and api to show  top10movie 
